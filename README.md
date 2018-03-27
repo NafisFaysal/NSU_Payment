@@ -12,3 +12,6 @@ Update readme
  * Number 3 
 
 # new update is not possible. its okay
+
+
+git tutorial for Irfan
