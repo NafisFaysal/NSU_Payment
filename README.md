@@ -16,10 +16,5 @@ Update readme
 
 git tutorial for Irfan
 
-Here are the numbers
-23 
-24
-25
-26
-27
 
+#Random word
